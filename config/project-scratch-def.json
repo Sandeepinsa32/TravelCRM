@@ -1,0 +1,15 @@
+{
+  "orgName": "Travel CRM Scratch org",
+  "edition": "Developer",
+  "adminEmail": "sandeepinsa32@gmail.com",
+  "description": " For LWC and Integration ",
+  "features": ["EnableSetPasswordInApi"],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    }
+  }
+}
