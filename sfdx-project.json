@@ -3,8 +3,6 @@
     {
       "path": "force-app",
       "default": true
-    },{
-      "path": "config/project-scratch-def.json" 
     }
   ],
   
